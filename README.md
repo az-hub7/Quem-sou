@@ -93,11 +93,11 @@
 ---
 
 ## 🚀 Current Ventures (Stealth)
-| Project | Phase | Status |
+| Codename | Phase | Status |
 |---------|-------|--------|
-| 🔒 Project Alpha | Phase 1: Integration | Stealth |
-| 🔒 Project Beta  | Phase 2: Evolution | Stealth |
-| 🔒 Project Gamma | Phase 3: Expansion | Stealth |
+| 🔒 Alpha | Phase 1: Integration | Confidential |
+| 🔒 Beta  | Phase 2: Evolution | Confidential |
+| 🔒 Gamma | Phase 3: Expansion | Confidential |
 
 ---
 
@@ -130,9 +130,9 @@
 > All details remain abstracted to preserve confidentiality.  
 > Phases represent **strategic progression** without revealing functional specifics.
 
-
 ---
 
 ## 💻 Tech Stack
 ```text
 Next.js | React | Node.js | Polygon | Hardhat | Alchemy | Firebase | Web3 | ZK Proofs | UX/UI | Product Design
+
