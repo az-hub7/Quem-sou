@@ -3,10 +3,69 @@
 <h1 align="center">👋 Hey, I'm Andreza Santos</h1>
 <h3 align="center">Founder & Tech Innovator | Bridging Blockchain, AI & Real-World Impact</h3>
 
-<!-- Banner Animado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Futuristic Tech Banner" width="80%" />
-</p>
+<div align="center">
+
+<h2>🔮 Tech Capsule — Encrypted Stack Core</h2>
+
+<!-- Futuristic Capsule Animation -->
+<svg width="500" height="380">
+
+  <!-- Background Glow -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#24DDBC" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0A0F1F" stop-opacity="0.1"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="500" height="380" rx="20" fill="url(#glow)" />
+
+  <!-- Outer Capsule -->
+  <rect x="80" y="40" rx="60" ry="60" width="340" height="300"
+        stroke="#24DDBC"
+        stroke-width="2.5"
+        fill="none"
+        opacity="0.8"/>
+
+  <!-- Animated Inner Pulse -->
+  <ellipse cx="250" cy="190" rx="130" ry="140"
+           stroke="#7C3AED"
+           stroke-width="2"
+           fill="none">
+    <animate attributeName="rx" values="120;140;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="130;150;130" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Floating Text Group -->
+  <g font-family="Arial" font-size="16" fill="#D9FAFF">
+
+    <text x="250" y="130" text-anchor="middle">
+      Next.js • React • Node.js
+      <animate attributeName="y" values="140;130;140" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="250" y="180" text-anchor="middle">
+      Polygon • Web3 • ZK
+      <animate attributeName="y" values="190;180;190" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="250" y="230" text-anchor="middle">
+      UX/UI • Product Design
+      <animate attributeName="y" values="240;230;240" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+  </g>
+
+  <!-- Energy Core -->
+  <circle cx="250" cy="190" r="6" fill="#24DDBC">
+    <animate attributeName="r" values="5;10;5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+</svg>
+
+<i>Confidential systems running in stealth mode. Access restricted.</i>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-Next.js%20|%20React%20|%20Node.js-7C3AED?style=for-the-badge" />
